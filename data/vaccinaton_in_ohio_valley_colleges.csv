@@ -1,0 +1,123 @@
+Name,Address,total_enrollment_fall_2019,vaccination_required_everyone,Latitude,Longitude,City,State,County,Zip
+Ohio State University-Main Campus,"190 N. Oval Mall, Columbus, Ohio 43210",61391,NO,40.000893,-83.011545,Columbus,OH,Franklin County,43210
+University of Cincinnati,"2624 Clifton Avenue, Cincinnati, Ohio 45221-0063",39263,NO,39.135177,-84.520074,Cincinnati,OH,Hamilton County,45221
+University of Kentucky,"South Limestone, Lexington, Kentucky 40506-0032",29402,NO,38.030248,-84.510073,Lexington,KY,Fayette County,40503
+Kent State University at Kent,"Executive Office, 2nd Floor Library, Kent, Ohio 44242-0001",27716,NO,41.170006,-81.196615,Kent,OH,Portage County,44242
+Ohio University-Main Campus,"020 Chubb Hall, Athens, Ohio 45701-2979",27367,NO,39.339279,-82.013803,Athens,OH,Athens County,45701
+West Virginia University,"PO Box 6201, Morgantown, West Virginia 26506",26839,NO,39.645276,-79.962669,Morgantown,WV,Monongalia County,26506
+University of Louisville,"2301 S 3rd St, Louisville, Kentucky 40292-0001",21670,NO,38.215024,-85.760145,Louisville,KY,Jefferson County,40208
+Miami University-Oxford,"501 East High St, Oxford, Ohio 45056",19716,NO,39.509786,-84.735223,Oxford,OH,Butler County,45056
+University of Toledo,"2801 W Bancroft, Toledo, Ohio 43606-3390",19694,NO,41.659888,-83.613729,Toledo,OH,Lucas County,43606
+Western Kentucky University,"1906 College Heights Blvd, Bowling Green, Kentucky 42101-1000",18171,NO,36.987112,-86.449825,Bowling Green,KY,Warren County,42101
+Bowling Green State University,"220 McFall Ctr, Bowling Green, Ohio 43403",17733,NO,41.376979,-83.637118,Bowling Green,OH,Wood County,43403
+University of Akron Main Campus,"302 Buchtel Common, Akron, Ohio 44325-4702",17600,NO,41.07601,-81.511138,Akron,OH,Summit County,44325
+University of the Cumberlands,"6191 College Station Drive, Williamsburg, Kentucky 40769",16966,NO,36.735888,-84.164997,Williamsburg,KY,Whitley County,40769
+Northern Kentucky University,"Nunn Drive, Highland Heights, Kentucky 41099",15664,NO,39.035893,-84.468189,Newport,KY,Campbell County,41099
+Cleveland State University,"2121 Euclid Avenue, Cleveland, Ohio 44115-2214",15433,Yes,41.502208,-81.675316,Cleveland,OH,Cuyahoga County,44115
+Eastern Kentucky University,"521 Lancaster Ave, Richmond, Kentucky 40475-3102",14980,NO,37.74313,-84.301045,Richmond,KY,Madison County,40475
+Marshall University,"1 John Marshall Dr, Huntington, West Virginia 25755",12852,NO,38.422574,-82.430742,Huntington,WV,Cabell County,25755
+Campbellsville University,"1 University Dr, Campbellsville, Kentucky 42718-2799",12381,NO,37.344444,-85.347982,Campbellsville,KY,Taylor County,42718
+Wright State University-Main Campus,"3640 Colonel Glenn Highway, Dayton, Ohio 45435-0001",12356,NO,39.782158,-84.067154,Beavercreek,OH,Greene County,45324
+Youngstown State University,"One University Plaza, Youngstown, Ohio 44555-0001",12110,NO,41.095631,-80.713688,Youngstown,OH,Mahoning County,44515
+Case Western Reserve University,"10900 Euclid Ave, Cleveland, Ohio 44106",11874,NO,41.500914,-81.60621,Cleveland,OH,Cuyahoga County,44106
+University of Dayton,"300 College Park, Dayton, Ohio 45469",11473,NO,39.740274,-84.180202,Dayton,OH,Montgomery County,45409
+Morehead State University,"University Blvd, Morehead, Kentucky 40351",9654,NO,38.188216,-83.430755,Morehead,KY,Rowan County,40351
+Murray State University,"218 Wells Hall, Murray, Kentucky 42071-3318",9556,NO,36.625349,-88.279562,Murray,KY,Calloway County,42071
+Xavier University,"3800 Victory Parkway, Cincinnati, Ohio 45207-1092",6973,NO,39.148566,-84.476351,Cincinnati,OH,Hamilton County,45207
+University of Cincinnati-Blue Ash College,"9555 Plainfield Rd, Blue Ash, Ohio 45236-1096",5986,NO,39.233235,-84.399847,Blue Ash,OH,Hamilton County,45236
+Ashland University,"401 College Avenue, Ashland, Ohio 44805",5091,NO,40.862248,-82.319377,Ashland,OH,Ashland County,44805
+The University of Findlay,"1000 North Main Street, Findlay, Ohio 45840-3653",4714,NO,41.053711,-83.650249,Findlay,OH,Hancock County,45840
+Cedarville University,"251 N. Main Street, Cedarville, Ohio 45314-0601",4302,NO,39.746907,-83.809701,Cedarville,OH,Greene County,45314
+The Southern Baptist Theological Seminary,"2825 Lexington Rd, Louisville, Kentucky 40280-0001",4139,NO,38.247536,-85.686185,Louisville,KY,Jefferson County,40206
+West Virginia State University,"Rte 25, Institute, West Virginia 25112-1000",4120,NO,38.38389,-81.765441,Institute,WV,Kanawha County,25112
+Fairmont State University,"1201 Locust Ave, Fairmont, West Virginia 26554-2470",3803,NO,39.481789,-80.159812,Fairmont,WV,Marion County,26554
+Shawnee State University,"940 Second St, Portsmouth, Ohio 45662",3641,NO,38.730043,-82.995675,Portsmouth,OH,Scioto County,45662
+Shepherd University,"301 North King St, Shepherdstown, West Virginia 25443",3554,NO,39.433659,-77.804216,Shepherdstown,WV,Jefferson County,25443
+John Carroll University,"1 John Carroll Boulevard, University Heights, Ohio 44118-4538",3506,NO,41.497831,-81.537346,University Heights,OH,Cuyahoga County,44118
+Baldwin Wallace University,"275 Eastland Rd, Berea, Ohio 44017-2088",3504,NO,41.368395,-81.844646,Berea,OH,Cuyahoga County,44017
+Bellarmine University,"2001 Newburg Rd, Louisville, Kentucky 40205-0671",3331,NO,38.217604,-85.707731,Louisville,KY,Jefferson County,40205
+Sullivan University,"3101 Bardstown Rd, Louisville, Kentucky 40205-3013",3318,NO,38.213137,-85.670605,Louisville,KY,Jefferson County,40205
+Capital University,"1 College and Main, Columbus, Ohio 43209-2394",3226,NO,39.899591,-83.086835,Grove City,OH,Franklin County,43123
+University of Northwestern Ohio,"1441 N Cable Rd, Lima, Ohio 45805",3221,NO,40.759381,-84.147322,Lima,OH,Allen County,45805
+Franciscan University of Steubenville,"1235 University Blvd, Steubenville, Ohio 43952-1763",3039,NO,40.376392,-80.62257,Steubenville,OH,Jefferson County,43952
+Ohio Northern University,"525 S. Main St, Ada, Ohio 45810-1599",2958,NO,40.765407,-83.823754,Ada,OH,Hardin County,45810
+Ohio State University-Newark Campus,"1179 University Dr, Newark, Ohio 43055",2943,NO,40.069443,-82.445654,Newark,OH,Licking County,43055
+Tiffin University,"155 Miami Street, Tiffin, Ohio 44883",2926,NO,41.118596,-83.183767,Tiffin,OH,Seneca County,44883
+Oberlin College,"70 N Professor St, Oberlin, Ohio 44074",2863,NO,41.293577,-82.220811,Oberlin,OH,Lorain County,44074
+Otterbein University,"1 South Grove Street, Westerville, Ohio 43081",2853,NO,40.125346,-82.936239,Westerville,OH,Franklin County,43081
+Ohio Christian University,"1476 Lancaster Pike, Circleville, Ohio 43113-9487",2843,NO,39.609935,-82.905833,Circleville,OH,Pickaway County,43113
+University of Charleston,"2300 MacCorkle Avenue, SE, Charleston, West Virginia 25304",2718,NO,38.331625,-81.614602,Charleston,WV,Kanawha County,25304
+Walsh University,"2020 East Maple St, North Canton, Ohio 44720-3396",2694,NO,40.874937,-81.369548,North Canton,OH,Stark County,44720
+Lindsey Wilson College,"210 Lindsey Wilson St, Columbia, Kentucky 42728-1223",2591,NO,37.103143,-85.30023,Columbia,KY,Adair County,42728
+West Liberty University,"208 University Drive, West Liberty, West Virginia 26074",2496,NO,40.163728,-80.601715,Wheeling,WV,Ohio County,26003
+Muskingum University,"10 College Drive, New Concord, Ohio 43762",2370,NO,39.993898,-81.735295,New Concord,OH,Muskingum County,43762
+Denison University,"100 West College Street, Granville, Ohio 43023",2293,NO,40.069227,-82.51934,Granville,OH,Licking County,43023
+University of Pikeville,"147 Sycamore St, Pikeville, Kentucky 41501",2261,NO,37.478984,-82.521173,Pikeville,KY,Pike County,41501
+University of Mount Union,"1972 Clark Ave., Alliance, Ohio 44601-3929",2243,NO,40.902238,-81.109149,Alliance,OH,Stark County,44601
+Thomas More University,"333 Thomas More Parkway, Crestview Hills, Kentucky 41017-3495",2238,NO,39.022909,-84.56881,Crestview Hills,KY,Kenton County,41017
+Mount Vernon Nazarene University,"800 Martinsburg Rd, Mount Vernon, Ohio 43050-9500",2205,NO,40.372697,-82.469926,Mount Vernon,OH,Knox County,43050
+Kentucky State University,"400 East Main Street, Frankfort, Kentucky 40601-2355",2171,NO,38.199917,-84.856516,Frankfort,KY,Franklin County,40601
+Mount Saint Joseph University,"5701 Delhi Rd, Cincinnati, Ohio 45233-1670",2100,NO,39.095854,-84.638721,Cincinnati,OH,Hamilton County,45233
+Central State University,"1400 Brush Row Rd, Wilberforce, Ohio 45384-1004",2033,NO,39.717441,-83.882581,Wilberforce,OH,Greene County,45384
+The College of Wooster,"1189 Beall Avenue, Wooster, Ohio 44691",1942,NO,40.811045,-81.933382,Wooster,OH,Wayne County,44691
+Asbury University,"1 Macklem Dr, Wilmore, Kentucky 40390-1198",1940,NO,37.86232,-84.662245,Wilmore,KY,Jessamine County,40390
+Concord University,"1000 Vermillion Street, Athens, West Virginia 24712",1886,NO,37.423142,-81.009851,Athens,WV,Mercer County,24712
+West Virginia University Institute of Technology,"512 South Kanawha Street, Beckley, West Virginia 25801",1794,NO,37.775891,-81.184092,Beckley,WV,Raleigh County,25801
+Kenyon College,"Kenyon College, Gambier, Ohio 43022",1750,YES,40.385029,-82.399627,Gambier,OH,Knox County,43022
+Asbury Theological Seminary,"204 N Lexington Ave, Wilmore, Kentucky 40390-1199",1698,NO,37.863209,-84.660568,Wilmore,KY,Jessamine County,40390
+Berea College,"101 Chestnut Street, Berea, Kentucky 40404-2182",1688,YES,37.568837,-84.296705,Berea,KY,Madison County,40403
+Wright State University-Lake Campus,"7600 Lake Campus Drive, Celina, Ohio 45822-2952",1661,NO,40.556645,-84.628714,Celina,OH,Mercer County,45822
+Ohio Dominican University,"1216 Sunbury Road, Columbus, Ohio 43219",1640,NO,39.992709,-82.940752,Columbus,OH,Franklin County,43219
+Spalding University,"901 S Fourth Street, Louisville, Kentucky 40203-2188",1629,NO,38.24155,-85.75885,Louisville,KY,Jefferson County,40203
+Wittenberg University,"Ward St at N Wittenberg Ave, Springfield, Ohio 45504",1619,NO,39.932713,-83.809604,Springfield,OH,Clark County,45504
+Notre Dame College,"4545 College Rd, Cleveland, Ohio 44121-4293",1612,NO,41.507709,-81.515485,Cleveland,OH,Cuyahoga County,44121
+Glenville State College,"200 High Street, Glenville, West Virginia 26351-1292",1575,NO,38.934897,-80.833255,Glenville,WV,Gilmer County,26351
+University of Rio Grande,"218 N College Ave, Rio Grande, Ohio 45674",1554,NO,38.882462,-82.377496,Rio Grande,OH,Gallia County,45674
+Lourdes University,"6832 Convent Blvd, Sylvania, Ohio 43560-2898",1547,NO,41.708251,-83.708042,Sylvania,OH,Lucas County,43560
+Malone University,"2600 Cleveland Avenue NW, Canton, Ohio 44709-3308",1524,NO,40.826458,-81.384791,Canton,OH,Stark County,44709
+Ohio Wesleyan University,"61 S Sandusky Street, Delaware, Ohio 43015-2370",1494,NO,40.296676,-83.06679,Delaware,OH,Delaware County,43015
+Georgetown College,"400 East College Street, Georgetown, Kentucky 40324-1696",1484,NO,38.207013,-84.55471,Georgetown,KY,Scott County,40324
+Centre College,"625 W Walnut St, Danville, Kentucky 40422-1394",1411,NO,37.645163,-84.77766,Danville,KY,Boyle County,40422
+Midway University,"512 E. Stephens St, Midway, Kentucky 40347-1120",1357,NO,38.146181,-84.682494,Midway,KY,Woodford County,40347
+Potomac State College of West Virginia University,"101 Fort Ave, Keyser, West Virginia 26726",1300,NO,39.438882,-78.981366,Keyser,WV,Mineral County,26726
+Hiram College,"Hiram, Ohio 44234-0067",1284,NO,41.310354,-81.1652,Hiram,OH,Portage County,44234
+Heidelberg University,"310 E Market St, Tiffin, Ohio 44883-2462",1247,NO,41.116336,-83.168531,Tiffin,OH,Seneca County,44883
+Wilmington College,"1870 Quaker Way, Wilmington, Ohio 45177",1231,NO,39.444341,-83.81634,Wilmington,OH,Clinton County,45177
+West Virginia Wesleyan College,"59 College Ave, Buckhannon, West Virginia 26201-2994",1226,NO,38.990051,-80.219752,Buckhannon,WV,Upshur County,26201
+Marietta College,"Irvine Bldg, Marietta, Ohio 45750",1217,NO,39.413446,-81.351051,Marietta,OH,Washington County,45750
+Union College,"310 College St, Barbourville, Kentucky 40906-1499",1140,NO,36.868309,-83.886821,Barbourville,KY,Knox County,40906
+Columbus College of Art and Design,"60 Cleveland Ave., Columbus, Ohio 43215",1093,NO,39.964836,-82.990047,Columbus,OH,Franklin County,43215
+Ohio State University-Mansfield Campus,"1760 University Drive, Mansfield, Ohio 44906",1078,NO,40.798828,-82.578423,Mansfield,OH,Richland County,44906
+Lake Erie College,"391 W Washington St, Painesville, Ohio 44077-3389",1056,NO,41.717183,-81.253009,Painesville,OH,Lake County,44077
+Ursuline College,"2550 Lander Rd, Pepper Pike, Ohio 44124",1050,NO,41.496021,-81.463114,Cleveland,OH,Cuyahoga County,44124
+Brescia University,"717 Frederica St, Owensboro, Kentucky 42301-3023",1014,NO,37.768981,-87.112519,Owensboro,KY,Daviess County,42301
+Salem University,"223 W Main St, Salem, West Virginia 26426",960,NO,39.283545,-80.567163,Salem,WV,Harrison County,26426
+Transylvania University,"300 N Broadway, Lexington, Kentucky 40508-1797",946,NO,38.047243,-84.501981,Lexington,KY,Fayette County,40508
+Mount Carmel College of Nursing,"127 So. Davis Ave, Columbus, Ohio 43222-1504",946,NO,39.961192,-83.035484,Columbus,OH,Franklin County,43222
+Alderson Broaddus University,"101 College Hill Drive, Philippi, West Virginia 26416-2035",913,NO,39.158046,-80.047688,Philippi,WV,Barbour County,26416
+Kentucky Wesleyan College,"3000 Frederica Street, Owensboro, Kentucky 42301",863,NO,37.742338,-87.122825,Owensboro,KY,Daviess County,42301
+Kettering College,"3737 Southern Blvd, Kettering, Ohio 45429-1299",815,NO,39.693678,-84.191715,Dayton,OH,Montgomery County,45429
+Wheeling University,"316 Washington Ave, Wheeling, West Virginia 26003",798,NO,40.067542,-80.690596,Wheeling,WV,Ohio County,26003
+Davis & Elkins College,"100 Campus Dr, Elkins, West Virginia 26241-3996",776,NO,38.930409,-79.845404,Elkins,WV,Randolph County,26241
+Bluffton University,"1 University Drive, Bluffton, Ohio 45817-2104",768,NO,40.894026,-83.897752,Bluffton,OH,Allen County,45817
+Kentucky Christian University,"100 Academic Pkwy, Grayson, Kentucky 41143-1199",725,NO,38.339012,-82.946244,Grayson,KY,Carter County,41143
+Cleveland Institute of Art,"11610 Euclid Avenue, Cleveland, Ohio 44106-1710",645,NO,41.510413,-81.602397,Cleveland,OH,Cuyahoga County,44106
+Alice Lloyd College,"100 Purpose Rd, Pippa Passes, Kentucky 41844",575,NO,37.33427,-82.878559,Pippa Passes,KY,Knott County,41844
+Wilberforce University,"1055 N Bickett Rd, Wilberforce, Ohio 45384-1001",566,NO,39.70718,-83.879614,Xenia,OH,Greene County,45385
+Defiance College,"701 N Clinton St., Defiance, Ohio 43512",542,NO,41.295852,-84.360078,Defiance,OH,Defiance County,43512
+Bethany College,"31 E Campus Dr, Bethany, West Virginia 26032",535,NO,40.204781,-80.561816,Bethany,WV,Brooke County,26032
+Cleveland Institute of Music,"11021 East Blvd, Cleveland, Ohio 44106-1776",373,NO,41.512248,-81.609368,Cleveland,OH,Cuyahoga County,44106
+Gods Bible School and College,"1810 Young Street, Cincinnati, Ohio 45202-6838",347,NO,39.11548,-84.506196,Cincinnati,OH,Hamilton County,45202
+Ohio Valley University,"1 Campus View Drive, Vienna, West Virginia 26105-8000",318,NO,39.312456,-81.536646,Vienna,WV,Wood County,26105
+Appalachian Bible College,"161 College Drive, Mount Hope, West Virginia 25880-9557",227,NO,37.85273,-81.198727,Mount Hope,WV,Raleigh County,25880
+Art Academy of Cincinnati,"1212 Jackson Street, Cincinnati, Ohio 45202-1706",219,NO,39.108998,-84.51398,Cincinnati,OH,Hamilton County,45202
+Athenaeum of Ohio,"6616 Beechmont Ave, Cincinnati, Ohio 45230-2091",192,NO,39.084667,-84.372707,Cincinnati,OH,Hamilton County,45230
+Payne Theological Seminary,"1230 Wilberforce-Clifton Rd., Wilberforce, Ohio 45384",190,NO,39.71539,-83.885287,Wilberforce,OH,Greene County,45384
+Louisville Presbyterian Theological Seminary,"1044 Alta Vista Rd, Louisville, Kentucky 40205-1798",152,NO,38.237058,-85.685512,Louisville,KY,Jefferson County,40205
+Methodist Theological School in Ohio,"3081 Columbus Pike, Delaware, Ohio 43015-3211",130,NO,40.253776,-83.060139,Delaware,OH,Delaware County,43015
+Clear Creek Baptist Bible College,"300 Clear Creek Rd, Pineville, Kentucky 40977-9752",123,NO,36.715863,-83.766776,Pineville,KY,Bell County,40977
+Pontifical College Josephinum,"7625 N High Street, Columbus, Ohio 43235-1499",106,NO,40.119464,-83.019807,Columbus,OH,Franklin County,43235
+Antioch College,"1 Morgan Pl, Yellow Springs, Ohio 45387",95,NO,39.799855,-83.888347,Yellow Springs,OH,Greene County,45387
+Kentucky Mountain Bible College,"855 Hwy 541, Jackson, Kentucky 41339",72,NO,37.603405,-83.425195,Jackson,KY,Breathitt County,41339
+Allegheny Wesleyan College,"2161 Woodsdale Rd, Salem, Ohio 44460-9598",68,NO,40.866902,-80.862155,Salem,OH,Columbiana County,44460
+Rabbinical College Telshe,"28400 Euclid Ave, Wickliffe, Ohio 44092",54,NO,41.592894,-81.483278,Wickliffe,OH,Lake County,44092
